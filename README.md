@@ -7,7 +7,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Repositórios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nao-mii&repo=petshop)](https://github.com/nao-mii/petshop)
+[![Petshop](https://github-readme-stats.vercel.app/api/pin/?username=nao-mii&repo=petshop&theme=dark)](https://github.com/nao-mii/petshop)
+[![Aluguel](https://github-readme-stats.vercel.app/api/pin/?username=nao-mii&repo=petshop&theme=dark)](https://github.com/nao-mii/aluguel)
 
 ## Linkedin
 
