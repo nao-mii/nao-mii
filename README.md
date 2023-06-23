@@ -1,6 +1,5 @@
 <h1 align="center">Hi, my name is Naomi!</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nao-mii&theme=radical&show_icons=true)
 
 ## Skills/Learning
 ![Pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
