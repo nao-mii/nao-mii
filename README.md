@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Naomi!</h1>
 
 Tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas. Neste repositório há um compilado de atividades e estudos que ando fazendo para me aprofundar.
-Sou extremamente análitica e gosto de trabalhos que me ajudem a estimular minha lógica. Meu objetivo é ser desenvolvedora back-end e para isso estou a procura de empresas que possam me prover conhecimento e experiência. 
+Sou extremamente análitica e gosto de trabalhos que me ajudem a estimular minha lógica. Meu objetivo é me tornar desenvolvedora back-end e para isso estou a procura de empresas que possam me prover conhecimento e experiência. 
 Caso tenha se interessado pelo perfil, o link para o meu LinkedIn está no final da página :)
 
 
