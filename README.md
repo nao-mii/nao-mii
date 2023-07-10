@@ -14,6 +14,7 @@ Caso tenha se interessado pelo perfil, o link para o meu LinkedIn está no final
 ## Repositórios
 [![Petshop](https://github-readme-stats.vercel.app/api/pin/?username=nao-mii&repo=petshop&theme=dark)](https://github.com/nao-mii/petshop)
 [![Aluguel](https://github-readme-stats.vercel.app/api/pin/?username=nao-mii&repo=petshop&theme=dark)](https://github.com/nao-mii/aluguel)
+[![Slot Machine](https://github-readme-stats.vercel.app/api/pin/?username=nao-mii&repo=petshop&theme=dark)](https://github.com/nao-mii/Slot-Machine-Game)
 
 ## Linkedin
 
